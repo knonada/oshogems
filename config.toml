@@ -1,0 +1,33 @@
+baseurl = "https://reyraja.xyz/"
+disqusShortname = ""
+googleAnalytics = ""
+languageCode = "en-us"
+theme = "creative"
+title = "Osho Gems"
+canonifyurls = "true"
+[params]
+copyright = "&copy;2017 knonada"
+description = "Jewelry & Precious Gems"
+email = "you@yoursite.com"
+sidebarabout = ["Jaipur, Rajasthan, India."]
+style = "sea"
+[author]
+    name = "knonada"
+[params.social]
+facebook = "full page or profile url in facebook"
+instagram = "full profile url in instagram"
+[[params.navlinks]]
+name = "Home"
+url = ""
+[[params.navlinks]]
+name = "Rings"
+url = "rings/"
+[[params.navlinks]]
+name = "Earrings"
+url = "earrings/"
+[[params.navlinks]]
+name = "Pendants"
+url = "pendants/"
+[[params.navlinks]]
+name = "About"
+url = "about/"
